@@ -5,3 +5,4 @@
 #### Cambios realizados:
 * Añadido REAME
 * Añadidos index.html y estilos CSS
+* Añadida foto de perfil y pequeños cambios textuales
