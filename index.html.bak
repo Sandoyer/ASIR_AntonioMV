@@ -10,16 +10,18 @@
     <style>
 body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
 </style> </head>
-  <body class="w3-light-grey w3-content" style="       max-width:1600px">
+  <body class="w3-light-grey w3-content" style="              max-width:1600px">
     <!-- Sidebar/menu -->
     <nav class="w3-sidebar w3-collapse w3-white w3-animate-left" style="z-index:3;width:300px;"
 
       id="mySidebar"><br>
       <div class="w3-container"> <a href="#" onclick="w3_close()" class="w3-hide-large w3-right w3-jumbo w3-padding w3-hover-grey"
 
-          title="close menu"> <i class="fa fa-remove"></i> </a> <img src="https://github.com/Sandoyer/ASIR_AntonioMV/blob/main/img/profile.png"
+          title="close menu"> <i class="fa fa-remove"></i> </a> <img src="https://raw.githubusercontent.com/Sandoyer/ASIR_AntonioMV/main/img/profile.png"
 
-          style="width:45%;" class="w3-round"><br>
+          style="width:45%;" class="w3-round" alt="Error de transferencia de datos interno de servidor. La imagen no se puede cargar."
+
+          title="Antonio Martínez Vela"><br>
         <br>
         <h4><b>PORTAFOLIO</b></h4>
         <p class="w3-text-grey">Antonio M.V (Sandoyer)</p>
@@ -34,9 +36,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
 
           onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-envelope fa-fw w3-margin-right"></i>CONTACTO</a>
       </div>
-      <div class="w3-panel w3-large"> <i class="fa fa-facebook-official w3-hover-opacity"></i>
-        <i class="fa fa-instagram w3-hover-opacity"></i> <i class="fa fa-snapchat w3-hover-opacity"></i>
-        <i class="fa fa-pinterest-p w3-hover-opacity"></i> <i class="fa fa-twitter w3-hover-opacity"></i>
+      <div class="w3-panel w3-large"> <i class="fa fa-twitter w3-hover-opacity"></i>
         <i class="fa fa-linkedin w3-hover-opacity"></i> </div>
     </nav>
     <!-- Overlay effect when opening sidebar on small screens -->
@@ -148,28 +148,29 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
         </div>
       </div>
       <div class="w3-container w3-padding-large" style="margin-bottom:32px">
-        <h4><b>About Me</b></h4>
-        <p>Just me, myself and I, exploring the universe of unknownment. I have
-          a heart of love and an interest of lorem ipsum and mauris neque quam
-          blog. I want to share my world with you. Praesent tincidunt sed tellus
-          ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies
-          congue gravida diam non fringilla. Praesent tincidunt sed tellus ut
-          rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies
-          congue gravida diam non fringilla.</p>
+        <h4><b>Sobre mi</b></h4>
+        <p>Sólo yo, yo mismo y yo, explorando el universo de lo desconocido.
+          Tengo un corazón de amor y un interés. Compartir mi mundo con
+          vosotros. Actualmente alumno de FPGS 1º de ASIR, adoro la informática
+          y tengo una gran pasión por la tecnología. Soy autodidacta y me
+          encanta investigar nuevos conocimientos por cuenta propia. Dicen que
+          el conocimiento no ocupa lugar... Hoy en día, es cierto, no hace falta
+          libros ni papel... Nunca esta de más el saber y en mi humilde opinión,
+          el conocimiento es poder... Es por esto que... Hay que compartirlo. </p>
         <hr>
-        <h4>Technical Skills</h4>
+        <h4>Habilidades técnicas</h4>
         <!-- Progress bars / Skills -->
-        <p>Photography</p>
+        <p>Streaming en <a href="https://www.twitch.tv/" target="_blank">Twitch.tv</a></p>
         <div class="w3-grey">
           <div class="w3-container w3-dark-grey w3-padding w3-center" style="width:95%">95%</div>
         </div>
-        <p>Web Design</p>
+        <p>DDBB</p>
         <div class="w3-grey">
-          <div class="w3-container w3-dark-grey w3-padding w3-center" style="width:85%">85%</div>
+          <div class="w3-container w3-dark-grey w3-padding w3-center" style="width:55%">55%</div>
         </div>
-        <p>Photoshop</p>
+        <p>Diseño web</p>
         <div class="w3-grey">
-          <div class="w3-container w3-dark-grey w3-padding w3-center" style="width:80%">80%</div>
+          <div class="w3-container w3-dark-grey w3-padding w3-center" style="width:40%">40%</div>
         </div>
         <p> <button class="w3-button w3-dark-grey w3-padding-large w3-margin-top w3-margin-bottom">
             <i class="fa fa-download w3-margin-right"></i>Download Resume </button>
