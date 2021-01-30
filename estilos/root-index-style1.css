@@ -1742,7 +1742,7 @@ div.w3-container {
 
   @media screen and (max-width: 768px){
 	* {
-        display: flex;
+        display: none;
         position: relative;
 	}
 }
