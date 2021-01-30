@@ -12,12 +12,12 @@
 
 ------
 ##### Secciones de contenido
-PAR: Unidad 5 Actividad 4 | PAR: Unidad 5 Actividad 5 | PAR: Unidad 5 Actividad 6
----------------------------------------------------------------------------------
-    Documento .pdf        |     Documento .pdf        |     Archivo .pkt
-   Breve descripción      |    Breve descripción      |    Breve descripción
-                          |      Archivo .pkt         |
-------
+|   PAR: Unidad 5 Actividad 4 | PAR: Unidad 5 Actividad 5 | PAR: Unidad 5 Actividad 6   |
+-----------------------------------------------------------------------------------------
+|    Documento .pdf            |     Documento .pdf        |     Archivo .pkt           |
+|  Breve descripción           |    Breve descripción      |    Breve descripción       |
+|                              |      Archivo .pkt         |                            |
+---------------------------------------------------------------------------------|-------
 > Despues de 20mil leguas de viaje submarino para por fín...
 * Añadido favicon
 > La respuesta estaba en un simple simbolo de admiración "?"
