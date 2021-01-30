@@ -11,19 +11,20 @@
 * Modificado formulario y tarifa de precios
 
 ------
-##### Secciones de contenido
+#### Secciones de contenido
+
    PAR: Unidad 5 Actividad 4 | PAR: Unidad 5 Actividad 5 | PAR: Unidad 5 Actividad 6
 -----------------------------|---------------------------|---------------------------
     Documento .pdf           |     Documento .pdf        |     Archivo .pkt
   Breve descripción          |    Breve descripción      |    Breve descripción
                              |      Archivo .pkt         |
-------
+
 > Despues de 20mil leguas de viaje submarino para por fín...
 * Añadido favicon
 > La respuesta estaba en un simple simbolo de admiración "?"
 
 #### *SIGO TRABAJANDO EN EL PROYECTO*
-##### Problemas a resolver:
+#### Problemas a resolver:
 * Imagenes de redes sociales e iconos en la sección de contacto.
 
                        
