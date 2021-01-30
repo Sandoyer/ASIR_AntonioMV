@@ -1739,3 +1739,10 @@ div.w3-container {
 	width: 100%;
 	}
   }
+
+  @media screen and (max-width: 768px){
+	* {
+        display: flex;
+        position: relative;
+	}
+}
